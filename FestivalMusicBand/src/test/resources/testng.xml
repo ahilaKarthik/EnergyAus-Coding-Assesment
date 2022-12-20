@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Band Festival Musical Suite">
+       <test name="test">
+           <classes>
+               <class name="org.festivalmusic.band.FestivalBandPageTest"></class>
+           </classes>
+       </test>
+ 
+</suite> <!-- Suite -->
